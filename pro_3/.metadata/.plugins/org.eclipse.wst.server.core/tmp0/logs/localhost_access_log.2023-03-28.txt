@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:16:02:17 +0530] "GET /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 7418
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:16:02:36 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:16:02:36 +0530] "GET /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 16759
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:16:02:47 +0530] "GET /project_3/ctl/MarksheetCtl?id=1 HTTP/1.1" 200 15207
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:16:16:53 +0530] "GET /project_3/ctl/MarksheetListCtl HTTP/1.1" 200 16759
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:16:18:52 +0530] "GET /project_3/ctl/MarksheetCtl?id=1 HTTP/1.1" 200 15207

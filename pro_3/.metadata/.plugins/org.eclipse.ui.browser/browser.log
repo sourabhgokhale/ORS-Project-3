@@ -1,0 +1,419 @@
+
+Feb 11, 2023 15:44:58.48 NEW SESSION
+Feb 11, 2023 15:44:58.48 [19024:24320:0211/154458.481:ERROR:device_event_log_impl.cc(215)] [15:44:58.481] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 15:44:58.48 [19024:24320:0211/154458.481:ERROR:device_event_log_impl.cc(215)] [15:44:58.481] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 15:44:58.48 [19024:24320:0211/154458.481:ERROR:device_event_log_impl.cc(215)] [15:44:58.481] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2023 15:45:54.29 [19024:19192:0211/154554.290:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 11, 2023 17:45:56.06 [19024:24320:0211/174556.059:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:45:56.06 [19024:24320:0211/174556.059:ERROR:device_event_log_impl.cc(215)] [17:45:56.060] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:45:56.14 [19024:24320:0211/174556.139:ERROR:device_event_log_impl.cc(215)] [17:45:56.140] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:45:59.08 [19024:24320:0211/174559.079:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:45:59.08 [19024:24320:0211/174559.079:ERROR:device_event_log_impl.cc(215)] [17:45:59.080] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2769#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:19.60 [19024:24320:0211/174719.605:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:19.60 [19024:24320:0211/174719.605:ERROR:device_event_log_impl.cc(215)] [17:47:19.605] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:19.69 [19024:24320:0211/174719.690:ERROR:device_event_log_impl.cc(215)] [17:47:19.690] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:30.51 [19024:24320:0211/174730.517:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:30.52 [19024:24320:0211/174730.517:ERROR:device_event_log_impl.cc(215)] [17:47:30.517] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:30.65 [19024:24320:0211/174730.658:ERROR:device_event_log_impl.cc(215)] [17:47:30.657] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:31.22 [19024:24320:0211/174731.222:ERROR:device_event_log_impl.cc(215)] [17:47:31.222] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:42.81 [19024:24320:0211/174742.807:ERROR:device_event_log_impl.cc(215)] [17:47:42.806] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:43.01 [19024:24320:0211/174743.013:ERROR:device_event_log_impl.cc(215)] [17:47:43.013] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 11, 2023 17:47:43.01 [19024:24320:0211/174743.013:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Feb 11, 2023 17:47:43.01 [19024:24320:0211/174743.013:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Feb 11, 2023 17:47:43.01 [19024:24320:0211/174743.013:ERROR:device_event_log_impl.cc(215)] [17:47:43.013] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:43.99 [19024:24320:0211/174743.988:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:44.08 [19024:24320:0211/174744.087:ERROR:device_event_log_impl.cc(215)] [17:47:44.086] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:45.57 [19024:24320:0211/174745.572:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:45.57 [19024:24320:0211/174745.572:ERROR:device_event_log_impl.cc(215)] [17:47:45.572] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:45.70 [19024:24320:0211/174745.699:ERROR:device_event_log_impl.cc(215)] [17:47:45.699] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:48.31 [19024:24320:0211/174748.310:ERROR:device_event_log_impl.cc(215)] [17:47:48.309] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:50.91 [19024:24320:0211/174750.911:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:50.91 [19024:24320:0211/174750.911:ERROR:device_event_log_impl.cc(215)] [17:47:50.911] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:50.98 [19024:24320:0211/174750.983:ERROR:device_event_log_impl.cc(215)] [17:47:50.980] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:51.24 [19024:24320:0211/174751.241:ERROR:device_event_log_impl.cc(215)] [17:47:51.240] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 11, 2023 17:47:51.30 [19024:24320:0211/174751.308:ERROR:device_event_log_impl.cc(215)] [17:47:51.308] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:52.71 [19024:24320:0211/174752.712:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:52.71 [19024:24320:0211/174752.712:ERROR:device_event_log_impl.cc(215)] [17:47:52.711] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:52.83 [19024:24320:0211/174752.835:ERROR:device_event_log_impl.cc(215)] [17:47:52.834] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:54.58 [19024:24320:0211/174754.585:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:54.58 [19024:24320:0211/174754.585:ERROR:device_event_log_impl.cc(215)] [17:47:54.584] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:54.65 [19024:24320:0211/174754.649:ERROR:device_event_log_impl.cc(215)] [17:47:54.648] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:55.03 [19024:24320:0211/174755.035:ERROR:device_event_log_impl.cc(215)] [17:47:55.035] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:47:55.82 [19024:24320:0211/174755.824:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:55.82 [19024:24320:0211/174755.824:ERROR:device_event_log_impl.cc(215)] [17:47:55.825] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:47:57.33 [19024:24320:0211/174757.338:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:47:57.33 [19024:24320:0211/174757.338:ERROR:device_event_log_impl.cc(215)] [17:47:57.337] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:01.05 [19024:24320:0211/174801.056:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:01.05 [19024:24320:0211/174801.056:ERROR:device_event_log_impl.cc(215)] [17:48:01.057] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:01.97 [19024:24320:0211/174801.978:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:02.09 [19024:24320:0211/174802.098:ERROR:device_event_log_impl.cc(215)] [17:48:02.097] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:04.42 [19024:24320:0211/174804.423:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:04.42 [19024:24320:0211/174804.423:ERROR:device_event_log_impl.cc(215)] [17:48:04.423] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:04.49 [19024:24320:0211/174804.493:ERROR:device_event_log_impl.cc(215)] [17:48:04.491] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:06.04 [19024:24320:0211/174806.047:ERROR:device_event_log_impl.cc(215)] [17:48:06.047] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:08.49 [19024:24320:0211/174808.490:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:08.49 [19024:24320:0211/174808.490:ERROR:device_event_log_impl.cc(215)] [17:48:08.490] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:08.59 [19024:24320:0211/174808.589:ERROR:device_event_log_impl.cc(215)] [17:48:08.587] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:08.95 [19024:24320:0211/174808.955:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:08.95 [19024:24320:0211/174808.955:ERROR:device_event_log_impl.cc(215)] [17:48:08.954] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:10.94 [19024:24320:0211/174810.940:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:10.94 [19024:24320:0211/174810.940:ERROR:device_event_log_impl.cc(215)] [17:48:10.940] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:11.09 [19024:24320:0211/174811.095:ERROR:device_event_log_impl.cc(215)] [17:48:11.095] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:12.25 [19024:24320:0211/174812.254:ERROR:device_event_log_impl.cc(215)] [17:48:12.253] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:18.37 [19024:24320:0211/174818.375:ERROR:device_event_log_impl.cc(215)] [17:48:18.374] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Feb 11, 2023 17:48:19.27 [19024:24320:0211/174819.275:ERROR:device_event_log_impl.cc(215)] [17:48:19.274] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: The I/O operation has been aborted because of either a thread exit or an application request. (0x3E3)
+Feb 11, 2023 17:48:19.27 [19024:24320:0211/174819.276:ERROR:device_event_log_impl.cc(215)] [17:48:19.276] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 11, 2023 17:48:20.50 [19024:24320:0211/174820.499:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:20.50 [19024:24320:0211/174820.499:ERROR:device_event_log_impl.cc(215)] [17:48:20.499] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2764#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:29.28 [19024:24320:0211/174829.282:ERROR:device_event_log_impl.cc(215)] [17:48:29.282] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 11, 2023 17:48:29.56 [19024:24320:0211/174829.569:ERROR:device_event_log_impl.cc(215)] [17:48:29.568] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:31.82 [19024:24320:0211/174831.820:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:31.82 [19024:24320:0211/174831.821:ERROR:device_event_log_impl.cc(215)] [17:48:31.821] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:32.06 [19024:24320:0211/174832.065:ERROR:device_event_log_impl.cc(215)] [17:48:32.066] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:34.24 [19024:24320:0211/174834.246:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:34.24 [19024:24320:0211/174834.246:ERROR:device_event_log_impl.cc(215)] [17:48:34.246] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:34.33 [19024:24320:0211/174834.333:ERROR:device_event_log_impl.cc(215)] [17:48:34.332] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:35.49 [19024:24320:0211/174835.493:ERROR:device_event_log_impl.cc(215)] [17:48:35.493] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:36.35 [19024:24320:0211/174836.355:ERROR:device_event_log_impl.cc(215)] [17:48:36.355] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:37.75 [19024:24320:0211/174837.754:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:37.75 [19024:24320:0211/174837.755:ERROR:device_event_log_impl.cc(215)] [17:48:37.754] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:40.91 [19024:24320:0211/174840.917:ERROR:device_event_log_impl.cc(215)] [17:48:40.916] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:42.16 [19024:24320:0211/174842.162:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:42.16 [19024:24320:0211/174842.162:ERROR:device_event_log_impl.cc(215)] [17:48:42.163] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:44.19 [19024:24320:0211/174844.192:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:44.20 [19024:24320:0211/174844.192:ERROR:device_event_log_impl.cc(215)] [17:48:44.192] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:44.34 [19024:24320:0211/174844.346:ERROR:device_event_log_impl.cc(215)] [17:48:44.345] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:45.01 [19024:24320:0211/174845.016:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:45.02 [19024:24320:0211/174845.017:ERROR:device_event_log_impl.cc(215)] [17:48:45.017] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:45.24 [19024:24320:0211/174845.241:ERROR:device_event_log_impl.cc(215)] [17:48:45.241] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:45.39 [19024:24320:0211/174845.389:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:45.39 [19024:24320:0211/174845.389:ERROR:device_event_log_impl.cc(215)] [17:48:45.390] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:46.24 [19024:24320:0211/174846.241:ERROR:device_event_log_impl.cc(215)] [17:48:46.239] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Feb 11, 2023 17:48:46.35 [19024:24320:0211/174846.358:ERROR:device_event_log_impl.cc(215)] [17:48:46.357] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:47.62 [19024:24320:0211/174847.620:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:47.62 [19024:24320:0211/174847.620:ERROR:device_event_log_impl.cc(215)] [17:48:47.620] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:47.70 [19024:24320:0211/174847.703:ERROR:device_event_log_impl.cc(215)] [17:48:47.702] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:51.93 [19024:24320:0211/174851.927:ERROR:device_event_log_impl.cc(215)] [17:48:51.927] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Feb 11, 2023 17:48:51.93 [19024:24320:0211/174851.934:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:51.93 [19024:24320:0211/174851.934:ERROR:device_event_log_impl.cc(215)] [17:48:51.934] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:52.05 [19024:24320:0211/174852.058:ERROR:device_event_log_impl.cc(215)] [17:48:52.058] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:53.34 [19024:24320:0211/174853.348:ERROR:device_event_log_impl.cc(215)] [17:48:53.348] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:53.54 [19024:24320:0211/174853.542:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:53.54 [19024:24320:0211/174853.542:ERROR:device_event_log_impl.cc(215)] [17:48:53.542] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:54.18 [19024:24320:0211/174854.186:ERROR:device_event_log_impl.cc(215)] [17:48:54.186] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:54.70 [19024:24320:0211/174854.703:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:48:54.70 [19024:24320:0211/174854.703:ERROR:device_event_log_impl.cc(215)] [17:48:54.703] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:48:55.05 [19024:24320:0211/174855.056:ERROR:device_event_log_impl.cc(215)] [17:48:55.056] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:55.97 [19024:24320:0211/174855.970:ERROR:device_event_log_impl.cc(215)] [17:48:55.969] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:48:58.46 [19024:24320:0211/174858.463:ERROR:device_event_log_impl.cc(215)] [17:48:58.463] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:49:02.50 [19024:24320:0211/174902.501:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:49:02.50 [19024:24320:0211/174902.501:ERROR:device_event_log_impl.cc(215)] [17:49:02.501] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:49:02.64 [19024:24320:0211/174902.639:ERROR:device_event_log_impl.cc(215)] [17:49:02.639] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:49:03.59 [19024:24320:0211/174903.592:ERROR:device_event_log_impl.cc(215)] [17:49:03.591] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:49:09.71 [19024:24320:0211/174909.715:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:49:09.71 [19024:24320:0211/174909.715:ERROR:device_event_log_impl.cc(215)] [17:49:09.716] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:49:11.64 [19024:24320:0211/174911.642:ERROR:device_event_log_impl.cc(215)] [17:49:11.642] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Feb 11, 2023 17:49:11.64 [19024:24320:0211/174911.643:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:49:11.64 [19024:24320:0211/174911.643:ERROR:device_event_log_impl.cc(215)] [17:49:11.643] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:49:11.67 [19024:24320:0211/174911.676:ERROR:device_event_log_impl.cc(215)] [17:49:11.674] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:49:12.26 [19024:24320:0211/174912.260:ERROR:device_event_log_impl.cc(215)] [17:49:12.259] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 11, 2023 17:52:12.89 [19024:24320:0211/175212.894:ERROR:device_event_log_impl.cc(215)] [17:52:12.894] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 11, 2023 17:52:13.67 [19024:24320:0211/175213.670:ERROR:device_event_log_impl.cc(215)] [17:52:13.670] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 11, 2023 17:52:15.96 [19024:24320:0211/175215.961:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:52:15.96 [19024:24320:0211/175215.961:ERROR:device_event_log_impl.cc(215)] [17:52:15.960] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2769#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:52:18.39 [19024:24320:0211/175218.396:ERROR:device_event_log_impl.cc(215)] [17:52:18.396] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 11, 2023 17:52:18.39 [19024:24320:0211/175218.396:ERROR:usb_descriptors.cc(117)] Failed to read configuration descriptor.
+Feb 11, 2023 17:52:18.39 [19024:24320:0211/175218.396:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Feb 11, 2023 17:52:18.40 [19024:24320:0211/175218.396:ERROR:device_event_log_impl.cc(215)] [17:52:18.396] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2769#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 11, 2023 17:52:35.91 [19024:24320:0211/175235.910:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 11, 2023 17:52:35.91 [19024:24320:0211/175235.910:ERROR:device_event_log_impl.cc(215)] [17:52:35.911] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2769#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 01:10:14.67 [19024:13236:0212/011014.672:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 12, 2023 01:35:10.85 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 01:49:33.56 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 01:52:18.03 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 02:11:02.95 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 02:16:01.36 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 02:16:08.79 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 11:19:45.69 [19024:8504:0212/111945.694:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 12, 2023 11:20:52.38 [19024:24320:0212/112052.384:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:20:52.38 [19024:24320:0212/112052.384:ERROR:device_event_log_impl.cc(215)] [11:20:52.384] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:20:52.49 [19024:24320:0212/112052.494:ERROR:device_event_log_impl.cc(215)] [11:20:52.491] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:21:55.89 [19024:24320:0212/112155.895:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:21:55.89 [19024:24320:0212/112155.897:ERROR:device_event_log_impl.cc(215)] [11:21:55.895] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:21:55.99 [19024:24320:0212/112155.991:ERROR:device_event_log_impl.cc(215)] [11:21:55.990] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:21:57.72 [19024:24320:0212/112157.725:ERROR:device_event_log_impl.cc(215)] [11:21:57.725] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 12, 2023 11:21:58.93 [19024:24320:0212/112158.937:ERROR:device_event_log_impl.cc(215)] [11:21:58.936] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Feb 12, 2023 11:22:01.98 [19024:24320:0212/112201.982:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:22:01.98 [19024:24320:0212/112201.982:ERROR:device_event_log_impl.cc(215)] [11:22:01.982] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:22:02.20 [19024:24320:0212/112202.199:ERROR:device_event_log_impl.cc(215)] [11:22:02.198] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:22:03.04 [19024:24320:0212/112203.048:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:22:03.04 [19024:24320:0212/112203.048:ERROR:device_event_log_impl.cc(215)] [11:22:03.047] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:22:04.87 [19024:24320:0212/112204.873:ERROR:device_event_log_impl.cc(215)] [11:22:04.872] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:22:05.92 [19024:24320:0212/112205.925:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:22:05.92 [19024:24320:0212/112205.925:ERROR:device_event_log_impl.cc(215)] [11:22:05.925] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:22:06.01 [19024:24320:0212/112206.015:ERROR:device_event_log_impl.cc(215)] [11:22:06.014] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:22:07.30 [19024:24320:0212/112207.306:ERROR:device_event_log_impl.cc(215)] [11:22:07.305] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:22:07.88 [19024:24320:0212/112207.888:ERROR:device_event_log_impl.cc(215)] [11:22:07.886] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:22:11.28 [19024:24320:0212/112211.288:ERROR:device_event_log_impl.cc(215)] [11:22:11.287] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:22:17.81 [19024:24320:0212/112217.815:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:22:17.82 [19024:24320:0212/112217.815:ERROR:device_event_log_impl.cc(215)] [11:22:17.815] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2765#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:22:18.08 [19024:24320:0212/112218.086:ERROR:device_event_log_impl.cc(215)] [11:22:18.086] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 12, 2023 11:22:27.68 [19024:24320:0212/112227.684:ERROR:device_event_log_impl.cc(215)] [11:22:27.684] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 12, 2023 11:22:27.68 [19024:24320:0212/112227.687:ERROR:device_event_log_impl.cc(215)] [11:22:27.687] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 12, 2023 11:23:06.48 [19024:24320:0212/112306.487:ERROR:device_event_log_impl.cc(215)] [11:23:06.487] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 12, 2023 11:23:06.49 [19024:24320:0212/112306.487:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Feb 12, 2023 11:23:06.49 [19024:24320:0212/112306.487:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Feb 12, 2023 11:23:06.49 [19024:24320:0212/112306.487:ERROR:device_event_log_impl.cc(215)] [11:23:06.487] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2764#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:29:26.20 [19024:24320:0212/112926.203:ERROR:device_event_log_impl.cc(215)] [11:29:26.203] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 12, 2023 11:29:38.92 [19024:24320:0212/112938.922:ERROR:device_event_log_impl.cc(215)] [11:29:38.922] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Feb 12, 2023 11:29:53.62 [19024:24320:0212/112953.624:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:29:53.62 [19024:24320:0212/112953.624:ERROR:device_event_log_impl.cc(215)] [11:29:53.625] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2764#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:29:54.22 [19024:24320:0212/112954.225:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:29:56.34 [19024:24320:0212/112956.341:ERROR:device_event_log_impl.cc(215)] [11:29:56.340] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Feb 12, 2023 11:30:07.16 [19024:24320:0212/113007.160:ERROR:device_event_log_impl.cc(215)] [11:30:07.160] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: The I/O operation has been aborted because of either a thread exit or an application request. (0x3E3)
+Feb 12, 2023 11:30:07.16 [19024:24320:0212/113007.160:ERROR:device_event_log_impl.cc(215)] [11:30:07.160] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Feb 12, 2023 11:30:10.63 [19024:24320:0212/113010.634:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:30:10.63 [19024:24320:0212/113010.635:ERROR:device_event_log_impl.cc(215)] [11:30:10.635] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2764#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:30:12.07 [19024:24320:0212/113012.073:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:30:21.85 [19024:24320:0212/113021.858:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:30:21.86 [19024:24320:0212/113021.858:ERROR:device_event_log_impl.cc(215)] [11:30:21.858] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2764#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:30:22.70 [19024:24320:0212/113022.701:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:31:09.56 [19024:24320:0212/113109.562:ERROR:device_event_log_impl.cc(215)] [11:31:09.563] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 12, 2023 11:31:10.19 [19024:24320:0212/113110.196:ERROR:device_event_log_impl.cc(215)] [11:31:10.196] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 12, 2023 11:31:12.09 [19024:24320:0212/113112.092:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:31:12.09 [19024:24320:0212/113112.092:ERROR:device_event_log_impl.cc(215)] [11:31:12.093] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2764#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Feb 12, 2023 11:31:28.61 [19024:24320:0212/113128.612:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Feb 12, 2023 11:31:28.61 [19024:24320:0212/113128.612:ERROR:device_event_log_impl.cc(215)] [11:31:28.612] USB: usb_device_win.cc:96 Failed to read descriptors from \\?\usb#vid_22d9&pid_2764#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+
+Feb 12, 2023 14:34:06.30 NEW SESSION
+Feb 12, 2023 14:34:06.30 [13092:668:0212/143406.299:ERROR:device_event_log_impl.cc(215)] [14:34:06.299] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 12, 2023 14:34:06.30 [13092:668:0212/143406.299:ERROR:device_event_log_impl.cc(215)] [14:34:06.299] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 12, 2023 14:34:06.30 [13092:668:0212/143406.299:ERROR:device_event_log_impl.cc(215)] [14:34:06.300] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 12, 2023 14:35:02.69 [13092:9792:0212/143502.693:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 12, 2023 14:49:23.22 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 14:51:17.25 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 15:10:26.79 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 12, 2023 19:35:18.20 [13092:11344:0212/193518.203:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Feb 12, 2023 19:39:19.68 [13092:668:0212/193919.684:ERROR:device_event_log_impl.cc(215)] [19:39:19.683] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 12, 2023 19:39:23.24 [13092:668:0212/193923.243:ERROR:device_event_log_impl.cc(215)] [19:39:23.243] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 05, 2023 12:40:15.14 NEW SESSION
+Mar 05, 2023 12:40:15.14 [13064:10352:0305/124015.122:ERROR:device_event_log_impl.cc(218)] [12:40:15.123] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 05, 2023 12:40:15.14 [13064:10352:0305/124015.123:ERROR:device_event_log_impl.cc(218)] [12:40:15.124] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 05, 2023 12:40:15.14 [13064:10352:0305/124015.123:ERROR:device_event_log_impl.cc(218)] [12:40:15.124] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 16, 2023 18:00:08.99 NEW SESSION
+Mar 16, 2023 18:00:08.99 [25780:18728:0316/180008.969:ERROR:device_event_log_impl.cc(222)] [18:00:08.970] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:00:08.99 [25780:18728:0316/180008.970:ERROR:device_event_log_impl.cc(222)] [18:00:08.970] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:00:08.99 [25780:18728:0316/180008.970:ERROR:device_event_log_impl.cc(222)] [18:00:08.971] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:00:10.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 16, 2023 18:03:28.28 [12628:13612:0316/180328.283:ERROR:device_event_log_impl.cc(222)] [18:03:28.283] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:03:28.28 [12628:13612:0316/180328.283:ERROR:device_event_log_impl.cc(222)] [18:03:28.284] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:03:28.28 [12628:13612:0316/180328.284:ERROR:device_event_log_impl.cc(222)] [18:03:28.284] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:03:29.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 16, 2023 18:40:46.68 [28264:22840:0316/184046.686:ERROR:device_event_log_impl.cc(222)] [18:40:46.686] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:40:46.68 [28264:22840:0316/184046.686:ERROR:device_event_log_impl.cc(222)] [18:40:46.686] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:40:46.68 [28264:22840:0316/184046.686:ERROR:device_event_log_impl.cc(222)] [18:40:46.686] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 16, 2023 18:40:47.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2023 14:22:46.72 [28264:22840:0318/142246.718:ERROR:device_event_log_impl.cc(222)] [14:22:46.718] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 18, 2023 18:06:01.45 [28264:21868:0318/180601.449:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 19, 2023 01:49:31.05 [28264:21868:0319/014931.051:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 19, 2023 01:49:31.98 [28264:10360:0319/014931.985:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 19, 2023 01:58:16.70 [28264:21868:0319/015816.699:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 19, 2023 04:51:00.82 [28264:21868:0319/045100.587:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 19, 2023 04:51:00.85 [28264:21868:0319/045100.642:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2023 11:52:49.97 [28264:21868:0320/115249.970:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2023 11:52:49.98 [28264:4928:0320/115249.979:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 20, 2023 12:27:49.55 [28264:21868:0320/122749.549:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 20, 2023 14:20:23.07 [28264:21868:0320/142023.070:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 20, 2023 14:20:23.44 [28264:21868:0320/142023.449:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Mar 20, 2023 14:42:56.25 NEW SESSION
+Mar 20, 2023 14:42:56.25 [10692:8488:0320/144256.247:ERROR:device_event_log_impl.cc(222)] [14:42:56.247] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 14:42:56.25 [10692:8488:0320/144256.247:ERROR:device_event_log_impl.cc(222)] [14:42:56.248] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 14:42:56.25 [10692:8488:0320/144256.248:ERROR:device_event_log_impl.cc(222)] [14:42:56.248] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2023 14:42:56.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 21, 2023 12:43:01.25 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 21, 2023 12:43:16.15 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Mar 21, 2023 13:00:03.07 [10692:8488:0321/130003.076:ERROR:device_event_log_impl.cc(222)] [13:00:03.077] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:00:03.74 [10692:8488:0321/130003.740:ERROR:device_event_log_impl.cc(222)] [13:00:03.740] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:00:04.55 [10692:8488:0321/130004.553:ERROR:device_event_log_impl.cc(222)] [13:00:04.553] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:39:28.98 [10692:8488:0321/133928.983:ERROR:device_event_log_impl.cc(222)] [13:39:28.983] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:39:29.97 [10692:8488:0321/133929.971:ERROR:device_event_log_impl.cc(222)] [13:39:29.971] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:41:30.33 [10692:8488:0321/134130.331:ERROR:device_event_log_impl.cc(222)] [13:41:30.331] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:41:31.45 [10692:8488:0321/134131.451:ERROR:device_event_log_impl.cc(222)] [13:41:31.452] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:41:51.66 [10692:8488:0321/134151.664:ERROR:device_event_log_impl.cc(222)] [13:41:51.665] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:41:52.33 [10692:8488:0321/134152.336:ERROR:device_event_log_impl.cc(222)] [13:41:52.336] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:42:06.59 [10692:8488:0321/134206.593:ERROR:device_event_log_impl.cc(222)] [13:42:06.592] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:42:07.20 [10692:8488:0321/134207.200:ERROR:device_event_log_impl.cc(222)] [13:42:07.200] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:08.24 [10692:8488:0321/134308.241:ERROR:device_event_log_impl.cc(222)] [13:43:08.241] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:09.09 [10692:8488:0321/134309.091:ERROR:device_event_log_impl.cc(222)] [13:43:09.090] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:10.33 [10692:8488:0321/134310.337:ERROR:device_event_log_impl.cc(222)] [13:43:10.337] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 21, 2023 13:43:10.35 [10692:8488:0321/134310.351:ERROR:device_event_log_impl.cc(222)] [13:43:10.351] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Mar 21, 2023 13:43:10.35 [10692:8488:0321/134310.351:ERROR:usb_descriptors.cc(141)] Failed to read length for configuration 0.
+Mar 21, 2023 13:43:10.35 [10692:8488:0321/134310.351:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 1, got 0.
+Mar 21, 2023 13:43:10.35 [10692:8488:0321/134310.353:ERROR:device_event_log_impl.cc(222)] [13:43:10.353] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_22d9&pid_2046#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Mar 21, 2023 13:43:10.58 [10692:8488:0321/134310.580:ERROR:device_event_log_impl.cc(222)] [13:43:10.580] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device which does not exist was specified. (0x1B1)
+Mar 21, 2023 13:43:10.65 [10692:8488:0321/134310.655:ERROR:device_event_log_impl.cc(222)] [13:43:10.654] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 21, 2023 13:43:10.86 [10692:8488:0321/134310.861:ERROR:device_event_log_impl.cc(222)] [13:43:10.860] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:12.75 [10692:8488:0321/134312.750:ERROR:device_event_log_impl.cc(222)] [13:43:12.749] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:13.26 [10692:8488:0321/134313.260:ERROR:device_event_log_impl.cc(222)] [13:43:13.259] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:14.25 [10692:8488:0321/134314.252:ERROR:device_event_log_impl.cc(222)] [13:43:14.252] USB: usb_service_win.cc:72 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:15.50 [10692:8488:0321/134315.500:ERROR:device_event_log_impl.cc(222)] [13:43:15.499] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:21.70 [10692:8488:0321/134321.707:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Mar 21, 2023 13:43:21.70 [10692:8488:0321/134321.707:ERROR:device_event_log_impl.cc(222)] [13:43:21.707] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_22d9&pid_2046#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Mar 21, 2023 13:43:21.78 [10692:8488:0321/134321.782:ERROR:device_event_log_impl.cc(222)] [13:43:21.782] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 21, 2023 13:43:22.33 [10692:8488:0321/134322.333:ERROR:device_event_log_impl.cc(222)] [13:43:22.333] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 21, 2023 13:43:23.51 [10692:8488:0321/134323.513:ERROR:device_event_log_impl.cc(222)] [13:43:23.513] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:25.28 [10692:8488:0321/134325.280:ERROR:device_event_log_impl.cc(222)] [13:43:25.280] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:26.98 [10692:8488:0321/134326.988:ERROR:device_event_log_impl.cc(222)] [13:43:26.988] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:27.43 [10692:8488:0321/134327.434:ERROR:device_event_log_impl.cc(222)] [13:43:27.433] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:29.17 [10692:8488:0321/134329.172:ERROR:device_event_log_impl.cc(222)] [13:43:29.171] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:30.73 [10692:8488:0321/134330.729:ERROR:device_event_log_impl.cc(222)] [13:43:30.729] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:31.18 [10692:8488:0321/134331.188:ERROR:device_event_log_impl.cc(222)] [13:43:31.187] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:32.73 [10692:8488:0321/134332.735:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Mar 21, 2023 13:43:32.73 [10692:8488:0321/134332.736:ERROR:device_event_log_impl.cc(222)] [13:43:32.735] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_22d9&pid_2046#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Mar 21, 2023 13:43:32.83 [10692:8488:0321/134332.830:ERROR:device_event_log_impl.cc(222)] [13:43:32.830] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 21, 2023 13:43:33.59 [10692:8488:0321/134333.597:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Mar 21, 2023 13:43:33.59 [10692:8488:0321/134333.598:ERROR:device_event_log_impl.cc(222)] [13:43:33.597] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_22d9&pid_2046#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Mar 21, 2023 13:43:34.82 [10692:8488:0321/134334.824:ERROR:device_event_log_impl.cc(222)] [13:43:34.824] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:35.28 [10692:8488:0321/134335.287:ERROR:device_event_log_impl.cc(222)] [13:43:35.286] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:36.35 [10692:8488:0321/134336.353:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Mar 21, 2023 13:43:36.35 [10692:8488:0321/134336.353:ERROR:device_event_log_impl.cc(222)] [13:43:36.353] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_22d9&pid_2046#45s4tog6krs8wolv#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Mar 21, 2023 13:43:36.44 [10692:8488:0321/134336.438:ERROR:device_event_log_impl.cc(222)] [13:43:36.439] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 21, 2023 13:43:44.81 [10692:8488:0321/134344.813:ERROR:device_event_log_impl.cc(222)] [13:43:44.813] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:43:46.12 [10692:8488:0321/134346.127:ERROR:device_event_log_impl.cc(222)] [13:43:46.127] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:44:46.24 [10692:8488:0321/134446.239:ERROR:device_event_log_impl.cc(222)] [13:44:46.239] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:44:52.69 [10692:8488:0321/134452.691:ERROR:device_event_log_impl.cc(222)] [13:44:52.691] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:44:53.82 [10692:8488:0321/134453.825:ERROR:device_event_log_impl.cc(222)] [13:44:53.825] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:45:04.13 [10692:8488:0321/134504.134:ERROR:device_event_log_impl.cc(222)] [13:45:04.134] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 21, 2023 13:45:04.91 [10692:8488:0321/134504.910:ERROR:device_event_log_impl.cc(222)] [13:45:04.910] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 22, 2023 19:51:38.51 [10692:8488:0322/195138.512:ERROR:device_event_log_impl.cc(222)] [19:51:38.512] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 01, 2023 17:12:26.98 [10692:11864:0401/171226.977:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 01, 2023 17:53:10.85 [10692:11864:0401/175310.853:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 01, 2023 18:13:22.13 [10692:11864:0401/181322.127:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2023 18:13:49.83 [10692:11864:0401/181349.830:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2023 18:14:43.86 [10692:11864:0401/181443.866:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 01, 2023 18:16:07.46 [10692:11864:0401/181607.463:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 11:28:06.04 [10692:11864:0402/112806.039:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 11:28:06.04 [10692:8928:0402/112806.047:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 11:28:51.06 [10692:12008:0402/112851.069:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 11:30:43.58 [10692:12008:0402/113043.580:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 11:33:38.33 [10692:11864:0402/113338.330:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 11:35:24.85 [10692:12008:0402/113524.852:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 11:42:26.74 [10692:12008:0402/114226.746:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 11:43:38.34 [10692:11864:0402/114338.348:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 16:27:21.28 [10692:11864:0402/162721.280:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 16:27:21.31 [10692:8928:0402/162721.313:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 16:37:21.29 [10692:11864:0402/163721.296:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 16:37:21.33 [10692:12008:0402/163721.330:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 16:47:21.31 [10692:11864:0402/164721.309:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 16:47:21.34 [10692:12008:0402/164721.344:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 02, 2023 16:52:21.05 [10692:8488:0402/165221.058:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 02, 2023 16:57:21.32 [10692:11864:0402/165721.323:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 17:07:21.33 [10692:11864:0402/170721.334:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 17:17:21.34 [10692:11864:0402/171721.343:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 19:56:30.14 [10692:11864:0402/195630.145:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 20:06:30.15 [10692:11864:0402/200630.151:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 23:39:34.48 [10692:11864:0402/233934.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 23:49:34.49 [10692:11864:0402/234934.498:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 02, 2023 23:59:34.51 [10692:11864:0402/235934.510:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 24:09:34.52 [10692:11864:0403/000934.521:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 24:19:34.53 [10692:11864:0403/001934.533:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 24:29:34.54 [10692:11864:0403/002934.545:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:16:21.91 [10692:11864:0403/191621.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:16:22.18 [10692:11864:0403/191622.187:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 19:16:42.35 [10692:11864:0403/191642.358:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 19:16:55.39 [10692:8488:0403/191655.392:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 03, 2023 19:17:22.79 [10692:11864:0403/191722.790:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 19:19:06.57 [10692:11864:0403/191906.572:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 20:14:13.10 [10692:11864:0403/201413.101:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 20:14:13.10 [10692:11864:0403/201413.104:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 20:21:55.73 [10692:11864:0403/202155.732:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 20:24:13.11 [10692:11864:0403/202413.110:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 21:13:39.19 [10692:11864:0403/211339.193:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 21:13:39.19 [10692:11864:0403/211339.197:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 21:23:39.20 [10692:11864:0403/212339.202:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 21:23:39.20 [10692:11864:0403/212339.204:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 21:33:39.22 [10692:11864:0403/213339.222:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 21:33:39.22 [10692:11864:0403/213339.225:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 21:43:39.23 [10692:11864:0403/214339.237:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 21:43:39.24 [10692:11864:0403/214339.239:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 21:53:39.24 [10692:11864:0403/215339.240:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 21:53:39.24 [10692:11864:0403/215339.245:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 22:03:39.24 [10692:11864:0403/220339.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 22:03:39.26 [10692:11864:0403/220339.262:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 22:14:16.10 [10692:11864:0403/221416.100:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 22:14:16.10 [10692:11864:0403/221416.106:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 22:24:16.11 [10692:11864:0403/222416.117:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 22:24:16.12 [10692:11864:0403/222416.121:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 22:34:16.12 [10692:11864:0403/223416.122:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 22:34:16.12 [10692:11864:0403/223416.124:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 03, 2023 22:44:16.13 [10692:11864:0403/224416.137:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 22:44:16.14 [10692:11864:0403/224416.143:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 05, 2023 16:15:20.32 [10692:11864:0405/161520.327:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 16:15:20.38 [10692:11864:0405/161520.354:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 05, 2023 16:15:55.43 [10692:8488:0405/161555.434:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 05, 2023 16:25:20.33 [10692:11864:0405/162520.337:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 16:25:20.37 [10692:11864:0405/162520.370:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 05, 2023 16:42:33.19 [10692:11864:0405/164233.194:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 16:42:33.28 [10692:11864:0405/164233.282:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 05, 2023 17:22:05.49 [10692:11864:0405/172205.496:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2023 17:38:59.44 [10692:11864:0405/173859.441:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 05, 2023 20:39:03.76 [10692:11864:0405/203903.685:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 05, 2023 20:39:03.76 [10692:11864:0405/203903.689:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2023 13:13:43.31 [10692:11864:0407/131343.314:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 13:13:43.38 [10692:5292:0407/131343.379:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 07, 2023 13:14:16.01 [10692:8488:0407/131416.011:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 07, 2023 13:14:40.65 [10692:11864:0407/131440.659:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 13:16:17.65 [10692:11864:0407/131617.658:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 13:19:29.01 [10692:11864:0407/131929.014:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 13:25:30.95 [10692:11864:0407/132530.954:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 13:35:30.97 [10692:11864:0407/133530.970:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 14:15:37.60 [10692:12008:0407/141537.599:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for api.lunamedia.io failed:
+Apr 07, 2023 14:15:37.60 ----- Certificate i=0 (CN=*.lunamedia.io) -----
+Apr 07, 2023 14:15:37.60 ERROR: Time is after notAfter
+Apr 07, 2023 14:15:37.60 
+Apr 07, 2023 14:15:37.60 
+Apr 07, 2023 14:19:56.76 [10692:11864:0407/141956.763:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 14:20:26.49 [10692:11864:0407/142026.489:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 14:21:17.18 [10692:11864:0407/142117.187:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 14:22:50.91 [10692:11864:0407/142250.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 14:25:57.90 [10692:11864:0407/142557.902:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 14:28:02.33 [10692:11864:0407/142802.339:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2023 14:31:26.03 [10692:11864:0407/143126.032:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 07, 2023 14:36:42.86 [10692:11864:0407/143642.862:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 14:45:24.86 [10692:11864:0407/144524.868:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:02:49.00 [10692:11864:0407/150249.002:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:03:26.70 [10692:11864:0407/150326.700:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2023 15:03:32.66 [10692:11864:0407/150332.663:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:05:34.58 [10692:11864:0407/150534.585:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:08:46.83 [10692:11864:0407/150846.830:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:13:30.25 [10692:11864:0407/151330.252:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:46:19.23 [10692:11864:0407/154619.238:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:47:16.53 [10692:11864:0407/154716.535:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:48:54.89 [10692:11864:0407/154854.890:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:52:00.09 [10692:11864:0407/155200.097:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 15:59:03.32 [10692:11864:0407/155903.321:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 16:09:06.37 [10692:11864:0407/160906.371:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 16:19:06.38 [10692:11864:0407/161906.380:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 16:49:42.08 [10692:11864:0407/164942.083:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 16:52:29.31 [10692:11864:0407/165229.312:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 16:52:58.76 [10692:11864:0407/165258.765:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 16:53:42.20 [10692:11864:0407/165342.205:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 16:55:17.49 [10692:11864:0407/165517.495:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 16:59:01.84 [10692:11864:0407/165901.844:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 16:59:42.09 [10692:11864:0407/165942.093:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 17:04:40.50 [10692:11864:0407/170440.458:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 17:09:42.10 [10692:11864:0407/170942.108:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 17:14:40.47 [10692:11864:0407/171440.473:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 17:19:42.12 [10692:11864:0407/171942.123:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 17:40:10.17 [10692:10096:0407/174010.177:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 07, 2023 17:40:10.18 [10692:11864:0407/174010.183:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2023 17:40:10.18 [10692:11864:0407/174010.184:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 07, 2023 17:40:55.18 [10692:12008:0407/174055.186:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 07, 2023 17:42:47.69 [10692:12008:0407/174247.698:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 08, 2023 08:52:57.76 [10692:11864:0408/085257.759:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2023 08:52:57.76 [10692:5292:0408/085257.762:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 08, 2023 08:52:57.81 [10692:11864:0408/085257.817:ERROR:checkin_request.cc(241)] Check-in request got net error: -106
+Apr 08, 2023 09:20:21.32 [10692:11864:0408/092021.325:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2

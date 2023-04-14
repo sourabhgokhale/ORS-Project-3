@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:14:07:14 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3719
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:14:07:14 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:14:07:14 +0530] "GET /project_3/img/custom.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:14:07:14 +0530] "GET /project_3/img/log24.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:14:07:15 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3719
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:14:07:15 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:14:57:53 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:15:54:05 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7245
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:15:54:05 +0530] "GET /project_3/img/log28.jpg HTTP/1.1" 304 -

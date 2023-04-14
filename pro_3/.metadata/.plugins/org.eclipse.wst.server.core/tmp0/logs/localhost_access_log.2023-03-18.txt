@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:24:49 +0530] "GET /project_3/ HTTP/1.1" 200 814
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:32:38 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3708
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:32:38 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:37:42 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11892
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:37:42 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:37:43 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:38:41 +0530] "POST /project_3/UserRegistrationCtl HTTP/1.1" 200 12053
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:38:41 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:38:41 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [18/Mar/2023:15:47:11 +0530] "GET /project_3/ HTTP/1.1" 200 814

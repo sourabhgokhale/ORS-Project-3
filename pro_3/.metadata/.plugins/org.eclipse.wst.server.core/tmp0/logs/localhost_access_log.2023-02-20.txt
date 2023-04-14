@@ -1,0 +1,17 @@
+127.0.0.1 - - [20/Feb/2023:18:04:18 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:04:19 +0530] "GET /project_3/ HTTP/1.1" 200 814
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:04:19 +0530] "GET /project_3/img/custom.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:04:19 +0530] "GET /project_3/img/log23.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:04:29 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3705
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:04:29 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:04:29 +0530] "GET /project_3/img/log24.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:07:54 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3705
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:07:54 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3713
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3713
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3713
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3713
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3713
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3713
+0:0:0:0:0:0:0:1 - - [20/Feb/2023:18:17:19 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742

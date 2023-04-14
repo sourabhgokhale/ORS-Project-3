@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:01:10:19 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7166
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:01:10:19 +0530] "GET /project_3/img/log28.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:13:30:46 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:13:30:46 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11892
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:13:30:46 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [21/Mar/2023:13:30:46 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742

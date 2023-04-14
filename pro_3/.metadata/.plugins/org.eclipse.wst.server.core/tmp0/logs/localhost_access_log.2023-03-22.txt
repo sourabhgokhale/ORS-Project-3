@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [22/Mar/2023:19:27:01 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11892
+0:0:0:0:0:0:0:1 - - [22/Mar/2023:19:27:02 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [22/Mar/2023:19:27:02 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [22/Mar/2023:19:27:05 +0530] "POST /project_3/UserRegistrationCtl HTTP/1.1" 200 12053
+0:0:0:0:0:0:0:1 - - [22/Mar/2023:19:27:05 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [22/Mar/2023:19:27:05 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 742
+0:0:0:0:0:0:0:1 - - [22/Mar/2023:19:27:09 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11892
